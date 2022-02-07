@@ -4,5 +4,5 @@ workflows:
     scripts:
         - echo "Welcome to AppStore"
     publishing:
-	email:
-		- sann.chhailong168@gmail.com
+	    email:
+		    - sann.chhailong168@gmail.com
