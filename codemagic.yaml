@@ -1,0 +1,8 @@
+workflows:
+  pipeline:
+    name: Appstore Pipeling
+    scripts:
+        - echo "Welcome to AppStore"
+    publishing:
+	email:
+		- sann.chhailong168@gmail.com
